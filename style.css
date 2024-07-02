@@ -11,6 +11,8 @@ body {
 .head {
     color:darkcyan;
     font-weight: 500;
+    background-color:cornsilk;
+    text-align: center;
 }
 
 .img {
@@ -27,7 +29,7 @@ ul {
     font-style: italic;
 }
 
-li {
+ol {
     color:crimson;
     font-family: 'Lucida Console', sans-serif;
 }
